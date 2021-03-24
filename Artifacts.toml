@@ -1,0 +1,236 @@
+[[FlowCutterPACE17]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "716087e8a862d35aeae521115ce1e9a7e1f7fd47"
+libc = "glibc"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "2f1cf5c4f075ae0d8b34b7a13c99e9542ece80d62622c5b2555d38e0eeee01b8"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[FlowCutterPACE17]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ba452b24cdd50b866250ac4f489cd7d070fc84e4"
+libc = "glibc"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "325a57d68f05917b88d96f15513d8b9fb343b78c4f9e02fc1f63629137e22046"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[FlowCutterPACE17]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9400e3bd51846e3d8cd960c52a698dbc691b43c2"
+libc = "musl"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "a4e98a6d8f84993fff208b92f380795ef47e1f5feb6fad00f7172d97aef421e4"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.aarch64-linux-musl-cxx03.tar.gz"
+[[FlowCutterPACE17]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6f9cbda27cf5a1b183474e8b08e119515b3801bd"
+libc = "musl"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "44225445e8f3b1c82fea82b1051fe7d058de1c8cd477023a7e948d02420702a4"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.aarch64-linux-musl-cxx11.tar.gz"
+[[FlowCutterPACE17]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c8d744cae5e892fc2ee9c14f1b8c90c378c8195b"
+libc = "glibc"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "a0ed35bd7e584b65c861d0746900419d2b63a6eb86d81b49290faf6fabdf1375"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[FlowCutterPACE17]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2bfcfb175c1c526fd0a5bc460332913d174b1d7e"
+libc = "glibc"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "eca6dcdf4d30ef03c6ae83a66d08fc46324068f2a17f5f3902b58353f8b74bfd"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[FlowCutterPACE17]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dd432b4753410ec8d21576383d7b27cfcc518769"
+libc = "musl"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "c69df7c6640617abf46686e79d306e85941ace66771bfc908299149e7e003305"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[FlowCutterPACE17]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2bb51472bb6e99a28be8f9c01fa24661a2df8312"
+libc = "musl"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "70015101c160000d10ff2ab005589cb3ddd621810bbb783b16d2d0e9b7a5b1ec"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[FlowCutterPACE17]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "646e5effc162ab145c2ddfe955ac02876a229890"
+libc = "glibc"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "42faa7ff1056256a3655a4972dead0620ca1627284612c1cf1d1ea2c8b17d442"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.i686-linux-gnu-cxx03.tar.gz"
+[[FlowCutterPACE17]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b6e9bee66571d209a1f86474d36e908394b2c320"
+libc = "glibc"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "e871c98d50563af0f6dfd90b7522ecccc5066e6d9134f08b9fd5238692a69f90"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.i686-linux-gnu-cxx11.tar.gz"
+[[FlowCutterPACE17]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "295c3afd2d1447622c347e59a00db39ad4c1a75a"
+libc = "musl"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "c6fbae5273938f2884e2b72956d6e2aba1d303e1418e62931d5f49ff18e4a22f"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.i686-linux-musl-cxx03.tar.gz"
+[[FlowCutterPACE17]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1f670ffd1af85d71be7819d79398ce4a88b963d4"
+libc = "musl"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "6d02692795278246e515fc5e114cd7636695b9344eb5f72843296984ff0ed6a0"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.i686-linux-musl-cxx11.tar.gz"
+[[FlowCutterPACE17]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "15cf9d05c4b203efec13c18996628a6cecf6e4ce"
+os = "windows"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "a1274f8d718778f4b6a5540d13a701eef65723641f19902c139d6b151eb0ba96"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.i686-w64-mingw32-cxx03.tar.gz"
+[[FlowCutterPACE17]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2fb36b9bd8c3b535755f42456a627445b475cef3"
+os = "windows"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "5a55019bc8c296b39fce58c29d85245b15225eccf5e6ed1eb208660742470163"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.i686-w64-mingw32-cxx11.tar.gz"
+[[FlowCutterPACE17]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b4d8a5fc7695ef97ae456ef16cf65ecdb8e239e7"
+libc = "glibc"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "7631da9cc9b230bbcb8dbc7f448f1d2fdf6377b1a2cb2e9867d896d9a03db8e8"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[FlowCutterPACE17]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cf68b7beb02fe53275288502acffef5a7a1ec617"
+libc = "glibc"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "a291bcd7fcf9028fdbe63399c91b1acdc962906e58177fa73a0bc1eb19896348"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[FlowCutterPACE17]]
+arch = "x86_64"
+git-tree-sha1 = "fa3414aa626d0cc30b71bfd6518d536a904a3216"
+os = "macos"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "3ccde7f1b9fd9de8d3daf15c8be0c105efe0ffd1e77c5231808654849aacaaec"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.x86_64-apple-darwin.tar.gz"
+[[FlowCutterPACE17]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d7663b94b0571a3706d748d878b9f3087427f121"
+libc = "glibc"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "7dab1468e7e8f363fb52a6b196c880c3b269a861def9e663be1efc9e4cee19fb"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[FlowCutterPACE17]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8bb632981cf50427a50c77bf35816b2f5f0a5920"
+libc = "glibc"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "ef70f04ee013485d0fa278cff0fc390f2d176539082c71c17567f6bc7884e5f4"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[FlowCutterPACE17]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "21f08afb4c185fc99b2a96dbf21be108d77b50fa"
+libc = "musl"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "71be9d35bf85a42b6a2075d57a1504e294897869f084fb80d5afa5f4686f6b70"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.x86_64-linux-musl-cxx03.tar.gz"
+[[FlowCutterPACE17]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2b9b72e13320e29f5cc38c9b300bf85abce1a188"
+libc = "musl"
+os = "linux"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "47bd1d21528fba5a99c97d807485343f0db3136cfb0ec4976888edfd76b9ee9a"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.x86_64-linux-musl-cxx11.tar.gz"
+[[FlowCutterPACE17]]
+arch = "x86_64"
+git-tree-sha1 = "8a1ef17191b1c7e0c17855bdbf25ffb255cec6f5"
+os = "freebsd"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "de21c781bc7819cff8d29a04be27bdb80b8ae8e1834653715eae9db9ba8d0ba2"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.x86_64-unknown-freebsd.tar.gz"
+[[FlowCutterPACE17]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c28acbe5b551496c5983f8108933d4e138fb4f80"
+os = "windows"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "86cce5553140161ac5856d87ef22b31699b522b4cd7d943c6ae0927e5c77a56e"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[FlowCutterPACE17]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "faa8363f5fe42ac16790caa82a0a895eca28e3cb"
+os = "windows"
+
+    [[FlowCutterPACE17.download]]
+    sha256 = "23028809b32cb389392c82c057a7c7aa61e1014a1f6a93f8fc51d45b4f41afe4"
+    url = "https://github.com/JuliaBinaryWrappers/FlowCutterPACE17_jll.jl/releases/download/FlowCutterPACE17-v0.0.1+0/FlowCutterPACE17.v0.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
